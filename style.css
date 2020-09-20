@@ -1,0 +1,76 @@
+body{
+  text-align: center;
+}
+h1{
+    font-family: "Montserrat-light";
+}
+.smart{
+  background: #FF4500;
+}
+.container{
+  background-color: #eee;
+}
+.flower{
+  background-color: #F0E68C;
+}
+#features{
+  background-color: #eee;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  line-height: 3rem;
+}
+.colored-section{
+  position: relative;
+
+}
+.nav-item{
+  margin:15px 20px;
+}
+#testimonial-carousel{
+  text-align: center;
+width:850px;
+
+padding-left: 300px;
+  position:relative;
+  bottom: 350px;
+}
+#testimonials{
+
+  height: 550px;
+}
+.slide-show{
+  padding-bottom: 30px;
+}
+ .lower_flower{
+   padding-right: 20px;
+    margin-top: 40px;
+ }
+.lower_flower2{
+  padding-left: 20px;
+  margin-top: 40px;
+
+}
+.advice{
+  background-color: #FFEFD5;
+}
+.subscribe{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.card-title{
+  line-height: 2.5rem;
+}
+.card-text{
+  line-height: 1.5rem;
+}
+
+#footer{
+  padding-top:10px;
+  line-height: 1rem;
+  background-color: black;
+  padding-bottom: 10px;
+  text-color: white;
+}
+.social-icon{
+  margin: 20px 10px;
+}
